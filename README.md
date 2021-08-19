@@ -38,7 +38,7 @@ Using the emulator throughout working on the project continued to prove a challe
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Kayte Chien]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
