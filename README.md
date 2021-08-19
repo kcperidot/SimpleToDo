@@ -26,14 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Downloading the emulator was a challenge as I had to figure out what part of my setup was not allowing me to use it. I eventually found and fixed the issue.
+Using the emulator throughout working on the project continued to prove a challenge because it would freeze and be unresponsive until I cleared the device's data. I eventually found and fixed the issue.
 
 ## License
 
